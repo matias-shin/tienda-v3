@@ -11,3 +11,6 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.toastify__toast {
+  font-weight: bold !important; /* Asegúrate de que el texto de todos los toast sea negrita */
+}
